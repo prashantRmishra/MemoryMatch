@@ -8,7 +8,7 @@ i.e the event listener when the dom has loaded.
 All the methods have been writter inside this listner.<br>
 2.  ` card.addEventListener("click",cardClicked)  ` <br>
 i.e the click event listener when the ` card` element is clicked. <br>
-3.  ` setTimeout(checkmatch,500); ` <br> for wating for 500ms before procedding further i.e sort od delay. <br>
+3.  ` setTimeout(checkmatch,500); ` <br> for wating for 500ms before proceeding further i.e sort od delay. <br>
 _the logic is pretty straight forward and simple_
 
 
